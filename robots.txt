@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tdm1223.github.io/sitemap.xml
