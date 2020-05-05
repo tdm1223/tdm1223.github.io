@@ -2,11 +2,11 @@
 title:  "위상 정렬"
 excerpt: "Topology Sort"
 categories:
-  - algorithm
+  - Algorithm
 tags:
-  - topology
-  - sort
-  - algorithm
+  - Algorithm
+  - Sort
+  - Topology
 last_modified_at: 2020-03-24T08:00:00-00:00
 sitemap :
     changefreq : daily
