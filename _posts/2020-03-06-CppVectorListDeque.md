@@ -2,9 +2,9 @@
 title:  "C++ STL 벡터, 리스트, 덱 비교"
 excerpt: "벡터, 리스트, 덱"
 categories:
-  - Cpp
+  - cpp
 tags:
-  - Cpp
+  - cpp
   - STL
   - Vector
   - List
